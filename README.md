@@ -1,2 +1,2 @@
-# Alzheimer-MRI-Classifier
+# Alzheimer-Detection & MRI-Classifier
 
