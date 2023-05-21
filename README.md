@@ -1,6 +1,6 @@
 # Alzheimer Detection & MRI-Classifier
 
-###About Dataset
+About Dataset
 Alzheimer MRI Preprocessed Dataset (128 x 128)
  • The Dataset has four classes of images.
 Class - 1: Mild Demented (896 images)
