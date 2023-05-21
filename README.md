@@ -2,4 +2,4 @@
 
 About Dataset
 (Alzheimer MRI Preprocessed Dataset)
- _The Dataset has four classes of images
+The Dataset has four classes of images
